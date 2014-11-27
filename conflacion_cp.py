@@ -21,8 +21,7 @@ import fiona, nltk, re
 from unidecode import unidecode
 
 # Abrir archivos de datos geográficos
-prefix = '/home/gcarrillo/geodata/conflacion/'
-#prefix = '/docs/downloads/conflacion/'
+prefix = '/docs/downloads/conflacion/'
 adm_ptos = fiona.open(prefix+'derivados/carto_adm_pto_coddane_filtro.shp')
 cpcs = fiona.open(prefix+'divipola_cpc.shp')
 mpios = fiona.open(prefix+'divipola_mpio.shp')
