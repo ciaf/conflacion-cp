@@ -27,4 +27,4 @@ https://www.dane.gov.co/geoserver/divipola/ows?version=1.0.0&SERVICE=WFS&VERSION
 3. Crear un directorio "listados" en la ruta asignada a la variable `prefix`, de tal manera que se pueda acceder a prefix + "listados".
 4. Desde la carpeta asignada a la variable `prefix`, ejecutar desde la terminal de comandos: `python ./conflacion_cp.py`
 
-Más información en el blog [http://servidor/x.html](http://igac.gov.co)
+Más información sobre conflación en: [OGC Conflation Engineering Report](https://portal.opengeospatial.org/modules/admin/license_agreement.php?suppressHeaders=0&access_license_id=3&target=http://portal.opengeospatial.org/files/%3fartifact_id=30064)
